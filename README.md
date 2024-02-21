@@ -1,2 +1,3 @@
-# Twitter-GraphDB
-Setting up a graph database using Neo4j and Cypher querying language. Querying Twitter data.
+# New York City Taxi Data
+
+A complete notebook detailing exploratory data analysis of the New York City taxi data set.
